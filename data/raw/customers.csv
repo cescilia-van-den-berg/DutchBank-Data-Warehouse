@@ -1,0 +1,11 @@
+customer_id,first_name,last_name,date_of_birth,city,postcode,customer_since,customer_status
+1,Sophie,Jansen,1985-04-12,Tilburg,5038AB,2018-06-15,Active
+2,Mark,de Vries,1979-11-03,Breda,4811AA,2019-02-20,Active
+3,Emma,Bakker,1992-07-28,Eindhoven,5611AB,2020-09-10,Active
+4,Thomas,Smit,1968-01-19,Rotterdam,3011AA,2015-03-05,Active
+5,Lisa,Visser,1988-10-31,Amsterdam,1077AA,2017-11-22,Inactive
+6,Daan,Meijer,1995-03-14,Tilburg,5041AA,2021-01-18,Active
+7,Anna,Mulder,1975-08-09,Breda,4814AB,2016-05-30,Closed
+8,Jeroen,Bos,1982-12-25,Eindhoven,5621AB,2018-09-17,Active
+9,Sanne,Vos,1990-06-07,Rotterdam,3021AA,2022-04-11,Active
+10,Pieter,Willems,1970-02-16,Amsterdam,1081AB,2014-08-25,Inactive
